@@ -1,0 +1,43 @@
+.AddBar__container{
+
+    margin-top: 20px ;
+    width: fit-content;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aqua;
+    border-radius: 10px 10px 0 0;
+     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+
+}
+
+.txt_add{
+    display: flex;
+    justify-content: center;
+    width: 6vw;
+    
+    
+}
+
+
+.Bar{
+    height: 5vh;
+    width: 70vw;
+    background-color: aliceblue;
+    padding: 2px;
+    margin: 3px;
+}
+
+.Btn_add{
+    width: 6vw;
+    margin: 3px;
+    display: flex;
+    justify-content: center;
+}
+
+
+.Img_add{
+    width: 2rem;
+    
+}

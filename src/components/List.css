@@ -1,0 +1,11 @@
+.List{
+    width:  70vw;
+    background-color: aliceblue;
+    height: fit-content;
+    margin: 5px;
+    padding: 3px;
+    border-radius: 10px;
+     box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+
