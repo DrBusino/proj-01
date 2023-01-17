@@ -16,7 +16,7 @@ function AddBar() {
             <img
               className="Img_add"
               src={require("../assets/img/icons/add-file.png")}
-              alt="Paleta de Doce de Leite"
+              alt="Adicionar"
             />
           </div>
         </div>
